@@ -1,2 +1,2 @@
-# wireframe_cheatsheet
-CSS Wireframe Cheatsheet
+# CSS Snippet Cheatsheet
+CSS Snippet Cheatsheet
